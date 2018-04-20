@@ -9,6 +9,6 @@
             "email": "linken@gmail.com"
         }
     ],
-    "minimum-stability": "beta",
+    "minimum-stability": "stable",
     "require": {}
 }
