@@ -1,0 +1,14 @@
+{
+    "name": "boolean111000/sunpaymall",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "linken",
+            "email": "linken@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
